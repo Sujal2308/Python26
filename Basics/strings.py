@@ -66,3 +66,7 @@ print(str5)
 
 #! ord() - returns the Unicode code point of a given character
 print(ord('A')) # prints 65
+
+my_string = "Hello, World!"
+my_string.upper() # returns 'HELLO, WORLD!'
+print(my_string) # prints 'Hello, World!' (the original string is unchanged)

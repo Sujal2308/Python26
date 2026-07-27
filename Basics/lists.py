@@ -41,3 +41,5 @@ print(my_list)
 my_list = [1, 2, 3, 4, 5]
 print(my_list[0]) # prints 1
 print(my_list[0:3]) # prints [1, 2, 3]
+
+print(min(my_list))
