@@ -27,4 +27,6 @@ print(x)
 # - Variable names cannot start with a number.
 # - Variable names can only contain alphanumeric characters and underscores (A-z, 0-9, and _).
 # follow snake_case convention for variable names in Python
-my_variable = 10
+my_variable = range(10)
+print(my_variable)
+
